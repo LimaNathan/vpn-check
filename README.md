@@ -55,7 +55,7 @@ And here is the method that can check location
   }
 ```
 
-On `initState` method, call booth previously methods to start checking
+On `initState` method, call both previously methods to start checking
 
 ```dart
   @override
